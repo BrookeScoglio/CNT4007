@@ -1,8 +1,4 @@
-package Project_export;/*
-Aishwarya Saxena
-Sagar Rajani
-Abhimanyu Singh
-*/
+package Project_export;
 
 import java.io.*;
 import java.net.*;
